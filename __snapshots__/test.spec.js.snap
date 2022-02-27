@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`This is not working: %# 1`] = `true`;
+
+exports[`This is not working: %# 2`] = `true`;
+
+exports[`This is not working: %# 3`] = `true`;
+
+exports[`This is working: 0 1`] = `true`;
+
+exports[`This is working: 1 1`] = `true`;
+
+exports[`This is working: 2 1`] = `true`;
